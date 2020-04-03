@@ -1848,7 +1848,7 @@ CodeIgniter : Implementasi Metode Entropy Pada Pemrograman PHP (Belajar Dengan P
 
 {\locfont Penulis:}\\
 M. Yusril Helmi Setyawan\\
-Cokro Edi Perawiro
+Cokro Edi Prawiro
 
 \vskip6.5pt
 
